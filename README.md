@@ -1,6 +1,6 @@
-Hi 👋 I'm Maneesh
-15 y/o
-My skills are - Python, Django
+Hi 👋 I'm Maneesh <br />
+15 y/o <br />
+My skills are - Python, Django <br />
 
 
 <!--
