@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi 👋 I'm Maneesh
+15 y/o
+My skills are - Python, Django
+
 
 <!--
 **ManeeshKrishna724/ManeeshKrishna724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
