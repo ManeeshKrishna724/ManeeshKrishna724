@@ -1,5 +1,4 @@
 Hi 👋 I'm Maneesh <br />
-15<br />
 My skills are - Python, Django <br />
 
 
