@@ -1,5 +1,5 @@
-Hi 👋 I'm Maneesh <br />
-My skills are - Python, Django <br />
+Maneesh <br />
+Skills - Python, Django <br />
 
 
 <!--
